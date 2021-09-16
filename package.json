@@ -1,0 +1,27 @@
+{
+  "name": "lintel-bar-demo",
+  "version": "1.0.0",
+  "description": "This project test and demonstrates the features of lintel-bar",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jijojosephk/lintel-bar-demo.git"
+  },
+  "author": "Jijo Joseph <jijojosephk@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jijojosephk/lintel-bar-demo/issues"
+  },
+  "homepage": "https://github.com/jijojosephk/lintel-bar-demo#readme",
+  "devDependencies": {
+    "electron": "^14.0.1"
+  },
+  "dependencies": {
+    "@electron/remote": "^2.0.1",
+    "lintel-bar": "^0.0.15"
+  }
+}
